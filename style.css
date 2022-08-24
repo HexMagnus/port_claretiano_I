@@ -68,7 +68,9 @@ body{
 
 }
 .conteudo-principal-imagem{
+    padding-top: 20px;
     height: 430px;
+
 }
 
 .conteudo-secundario{
